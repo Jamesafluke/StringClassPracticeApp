@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PersonalMyCode\\VS\\StringClassPracticeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10FAA0BE-B385-4E58-A92E-3786D5C71728}|TwineTest\\StringClassPracticeTests.csproj|c:\\personalmycode\\vs\\stringclasspracticeapp\\twinetest\\twineunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FAA0BE-B385-4E58-A92E-3786D5C71728}|TwineTest\\StringClassPracticeTests.csproj|solutionrelative:twinetest\\twineunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684881C0-42F0-4A47-AF74-F0F2FC10E8EF}|StringClassPractice\\StringClassPractice.csproj|c:\\personalmycode\\vs\\stringclasspracticeapp\\stringclasspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684881C0-42F0-4A47-AF74-F0F2FC10E8EF}|StringClassPractice\\StringClassPractice.csproj|solutionrelative:stringclasspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684881C0-42F0-4A47-AF74-F0F2FC10E8EF}|StringClassPractice\\StringClassPractice.csproj|c:\\personalmycode\\vs\\stringclasspracticeapp\\stringclasspractice\\cord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684881C0-42F0-4A47-AF74-F0F2FC10E8EF}|StringClassPractice\\StringClassPractice.csproj|solutionrelative:stringclasspractice\\cord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FAA0BE-B385-4E58-A92E-3786D5C71728}|TwineTest\\StringClassPracticeTests.csproj|c:\\personalmycode\\vs\\stringclasspracticeapp\\twinetest\\cordunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FAA0BE-B385-4E58-A92E-3786D5C71728}|TwineTest\\StringClassPracticeTests.csproj|solutionrelative:twinetest\\cordunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cord.cs",
+              "DocumentMoniker": "C:\\PersonalMyCode\\VS\\StringClassPracticeApp\\StringClassPractice\\Cord.cs",
+              "RelativeDocumentMoniker": "StringClassPractice\\Cord.cs",
+              "ToolTip": "C:\\PersonalMyCode\\VS\\StringClassPracticeApp\\StringClassPractice\\Cord.cs",
+              "RelativeToolTip": "StringClassPractice\\Cord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:22:16.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PersonalMyCode\\VS\\StringClassPracticeApp\\StringClassPractice\\Program.cs",
+              "RelativeDocumentMoniker": "StringClassPractice\\Program.cs",
+              "ToolTip": "C:\\PersonalMyCode\\VS\\StringClassPracticeApp\\StringClassPractice\\Program.cs",
+              "RelativeToolTip": "StringClassPractice\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T21:50:38.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwineUnitTests.cs",
+              "DocumentMoniker": "C:\\PersonalMyCode\\VS\\StringClassPracticeApp\\TwineTest\\TwineUnitTests.cs",
+              "RelativeDocumentMoniker": "TwineTest\\TwineUnitTests.cs",
+              "ToolTip": "C:\\PersonalMyCode\\VS\\StringClassPracticeApp\\TwineTest\\TwineUnitTests.cs",
+              "RelativeToolTip": "TwineTest\\TwineUnitTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T21:40:02.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CordUnitTests.cs",
+              "DocumentMoniker": "C:\\PersonalMyCode\\VS\\StringClassPracticeApp\\TwineTest\\CordUnitTests.cs",
+              "RelativeDocumentMoniker": "TwineTest\\CordUnitTests.cs",
+              "ToolTip": "C:\\PersonalMyCode\\VS\\StringClassPracticeApp\\TwineTest\\CordUnitTests.cs",
+              "RelativeToolTip": "TwineTest\\CordUnitTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:25:22.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

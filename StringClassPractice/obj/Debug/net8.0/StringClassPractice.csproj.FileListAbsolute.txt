@@ -1,0 +1,14 @@
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\obj\Debug\net8.0\StringClassPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\obj\Debug\net8.0\StringClassPractice.AssemblyInfoInputs.cache
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\obj\Debug\net8.0\StringClassPractice.AssemblyInfo.cs
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\obj\Debug\net8.0\StringClassPractice.csproj.CoreCompileInputs.cache
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\bin\Debug\net8.0\StringClassPractice.exe
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\bin\Debug\net8.0\StringClassPractice.deps.json
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\bin\Debug\net8.0\StringClassPractice.runtimeconfig.json
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\bin\Debug\net8.0\StringClassPractice.dll
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\bin\Debug\net8.0\StringClassPractice.pdb
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\obj\Debug\net8.0\StringClassPractice.dll
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\obj\Debug\net8.0\refint\StringClassPractice.dll
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\obj\Debug\net8.0\StringClassPractice.pdb
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\obj\Debug\net8.0\StringClassPractice.genruntimeconfig.cache
+C:\PersonalMyCode\StringClassPracticeApp\StringClassPractice\obj\Debug\net8.0\ref\StringClassPractice.dll
